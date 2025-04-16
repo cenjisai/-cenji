@@ -28,7 +28,7 @@
     <li class="nav-item">
       <a href="javascript:;" class="navbar-nav-link navbar-nav-link-toggler">
         <span class="font-weight-600"> {{'BRANCHES.branch'|translate}} : {{branchList?.branchName?branchList?.branchName:'Madhapur'}} </span>
-      </a>
+      </a>fghghgfhg
     </li>
 
     <li class="">
@@ -82,7 +82,7 @@
 
 
 
-
+cxgdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdfdf
 
 
 
